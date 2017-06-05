@@ -10,5 +10,9 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 ## Industry
 
  * [Lindsey Kuper](http://composition.al), Intel Labs
+
+## Open Source
+
+ * [Anne Ogborn](http://theelginworks.com), SWI-Prolog (works at The Elgin Works and Simularity)
  
 ## Postdocs and PhD Students
