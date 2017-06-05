@@ -9,4 +9,6 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 
 ## Industry
 
+ * [Lindsey Kuper](http://composition.al), Intel Labs
+ 
 ## Postdocs and PhD Students
