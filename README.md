@@ -4,6 +4,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 ## University Faculty
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University
+* [Heather Miller](https://twitter.com/heathercmiller), Northeastern University, EPFL
 
 ## Industry
 
