@@ -7,4 +7,4 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 
 ## Industry
 
-## Postdocs and Senior PhD Students
+## Postdocs and PhD Students
