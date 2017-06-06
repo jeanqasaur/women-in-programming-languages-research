@@ -15,5 +15,8 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 
  * [Anne Ogborn](http://theelginworks.com), SWI-Prolog (works at The Elgin Works and Simularity)
  
-## Postdocs and PhD Students
+## Postdocs
+* [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
+
+## PhD Students
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
