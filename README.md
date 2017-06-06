@@ -19,5 +19,6 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
 
 ## PhD Students
+* [Ezgi Cicek] (https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University
