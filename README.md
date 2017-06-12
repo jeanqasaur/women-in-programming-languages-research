@@ -23,6 +23,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 ## PhD Students
 * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
 * [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
+* [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst
 * [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst
