@@ -7,6 +7,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University, EPFL
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University
+* [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania
 
 ## Industry
 
