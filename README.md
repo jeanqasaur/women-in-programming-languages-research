@@ -12,6 +12,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 ## Industry
 
  * [Lindsey Kuper](http://composition.al), Intel Labs
+ * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
 
 ## Open Source
 
