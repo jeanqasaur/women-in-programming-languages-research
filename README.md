@@ -22,7 +22,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
 
 ## PhD Students
-* [Leif Andersen](https://leifandersen.net)
+* [Leif Andersen](https://leifandersen.net), Northeastern University
 * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
 * [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
