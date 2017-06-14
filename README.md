@@ -13,6 +13,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 
  * [Lindsey Kuper](http://composition.al), Intel Labs
  * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
+ * [Antonate Maritim] (https://ona.io), Ona, Kenya
 
 ## Open Source
 
