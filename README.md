@@ -5,7 +5,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Nada Amin](http://namin.net), University of Cambridge, UK
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University, EPFL
-* [Kuljit Kaur Chahal] (https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India 
+* [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India 
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University
