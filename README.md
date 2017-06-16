@@ -1,8 +1,9 @@
 # Women in Programming Languages and Software Engineering Research
 For your program committees, seminar series, etc. Please add yourself, or someone who is comfortable being on this list, in alphabetical order. There are no guarantees about the comprehensiveness of this list.
 
-## University Faculty
+## Faculty (at Universities or Research Institutions)
 * [Nada Amin](http://namin.net), University of Cambridge, UK
+* [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University, EPFL
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India 
