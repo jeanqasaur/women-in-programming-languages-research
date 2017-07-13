@@ -3,6 +3,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 
 ## Faculty (at Universities or Research Institutions)
 * [Nada Amin](http://namin.net), University of Cambridge, UK
+* [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University, EPFL
