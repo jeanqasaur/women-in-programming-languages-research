@@ -21,6 +21,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 ## Open Source
 
  * [Anne Ogborn](http://theelginworks.com), SWI-Prolog (works at The Elgin Works and Simularity)
+ * [Maxime Chevalier-Boisvert](https://pointersgonewild.com), ZetaVM
  
 ## Postdocs
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
