@@ -2,6 +2,7 @@
 For your program committees, seminar series, etc. Please add yourself, or someone who is comfortable being on this list, in alphabetical order. There are no guarantees about the comprehensiveness of this list.
 
 ## Faculty (at Universities or Research Institutions)
+* [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University
 * [Nada Amin](http://namin.net), University of Cambridge, UK
 * [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
