@@ -8,10 +8,12 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University, EPFL
+* [Melanie Mitchell](http://web.cecs.pdx.edu/~mm/), Portland State University, the Santa Fe Institute
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India 
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University
+
 
 ## Industry
 
