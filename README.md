@@ -5,7 +5,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University
 * [Nada Amin](http://namin.net), University of Cambridge, UK
 * [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
-* [Isil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
+* [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
 * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html), Tufts University, USA
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University
