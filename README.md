@@ -9,6 +9,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
+* [Philippa Gardner](https://www.doc.ic.ac.uk/~pg/), Imperial College London, UK
 * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html), Tufts University, USA
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
