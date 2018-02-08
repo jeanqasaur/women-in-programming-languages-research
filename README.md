@@ -42,6 +42,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
  * [Maxime Chevalier-Boisvert](https://pointersgonewild.com), ZetaVM
  
 ## Postdocs
+* [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
 
 ## PhD Students
