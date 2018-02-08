@@ -28,6 +28,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 ## Industry
 
  * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google
+ * [Rezwana Karim](http://paul.rutgers.edu/~rkarim/), Samsung Research America
  * [Lindsey Kuper](http://composition.al), Intel Labs, USA
  * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
