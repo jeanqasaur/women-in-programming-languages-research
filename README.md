@@ -18,10 +18,12 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
+* [Chris Martens](https://www.csc.ncsu.edu/people/crmarten, North Carolina State University, USA
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University/EPFL, USA/Switzerland
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
 * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University, USA
 * [Sharon Shoham Buchbinder](http://www.tau.ac.il/~sharonshoham/), Tel Aviv University, Israel
+* [Alexandra Silva](http://www.alexandrasilva.org/#/main.html), University College London, UK
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
 
