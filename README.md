@@ -45,14 +45,15 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
 
 ## PhD Students
-* [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, German
-* [Leif Andersen](https://leifandersen.net), Northeastern University
+* [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
+* [Leif Andersen](https://leifandersen.net), Northeastern University, USA
 * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
 * [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
-* [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University
+* [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
 * [Marianna Rapoport](http://mrapoport.com/), University of Waterloo, Canada
-* [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst
-* [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst
-* [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University
+* [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
+* [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
+* [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst, USA
+* [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
