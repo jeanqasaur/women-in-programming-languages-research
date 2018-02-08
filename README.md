@@ -45,6 +45,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
 
 ## PhD Students
+* [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
 * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
 * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
@@ -53,6 +54,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
 * [Marianna Rapoport](http://mrapoport.com/), University of Waterloo, Canada
+* [Talia Ringer](http://tlringer.github.io/), University of Washington, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
 * [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst, USA
