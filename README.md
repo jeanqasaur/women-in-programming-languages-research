@@ -5,7 +5,6 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
 * [Nada Amin](http://namin.net), University of Cambridge, UK
 * [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
-* [Sharon Shoham Buchbinder](http://www.tau.ac.il/~sharonshoham/), Tel Aviv University, Israel
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India 
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
@@ -19,6 +18,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University/EPFL, USA/Switzerland
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
 * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University, USA
+* [Sharon Shoham Buchbinder](http://www.tau.ac.il/~sharonshoham/), Tel Aviv University, Israel
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
 
