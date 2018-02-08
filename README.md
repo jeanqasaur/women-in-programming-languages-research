@@ -13,6 +13,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Philippa Gardner](https://www.doc.ic.ac.uk/~pg/), Imperial College London, UK
 * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html), Tufts University, USA
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
+* [Mary Hall](http://www.cs.utah.edu/~mhall/), University of Utah, USA
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
