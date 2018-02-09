@@ -12,6 +12,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## Faculty and Research Scientists (at Universities or Research Institutions)
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
 * [Nada Amin](http://namin.net), University of Cambridge, UK
+* [Stephanie Balzer](http://www.cs.cmu.edu/~balzers/), Carnegie Mellon University, USA
 * [Annette Bieniusa](https://softech.cs.uni-kl.de/homepage/de/staff/AnnetteBieniusa/), TU Kaiserslautern, Germany
 * [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/), University of Kent, UK
