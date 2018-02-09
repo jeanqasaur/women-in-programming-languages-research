@@ -13,6 +13,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
 * [Nada Amin](http://namin.net), University of Cambridge, UK
 * [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
+* [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/), University of Kent, UK
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India 
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
@@ -24,6 +25,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Mary Hall](http://www.cs.utah.edu/~mhall/), University of Utah, USA
 * [Rashina Hoda](https://unidirectory.auckland.ac.nz/profile/r-hoda), University of Auckland, New Zealand
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
+* [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
