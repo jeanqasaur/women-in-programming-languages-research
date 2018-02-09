@@ -60,6 +60,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 
 ## PhD Students
 * [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
+* [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
 * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
 * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
