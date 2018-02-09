@@ -15,16 +15,21 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Annette Bieniusa](https://softech.cs.uni-kl.de/homepage/de/staff/AnnetteBieniusa/), TU Kaiserslautern, Germany
 * [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/), University of Kent, UK
+* [Viviana Bono](http://www.di.unito.it/~bono/index.html), Università di Torino, Italy
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India 
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
+* [Sophia Drossopoulou](https://wp.doc.ic.ac.uk/sd/), Imperial College London, UK
+* [Sue Eisenbach](http://www.imperial.ac.uk/people/s.eisenbach), Imperial College London, UK
 * [Azadeh Farzan](https://www.cs.toronto.edu/~azadeh/), University of Toronto, Canada
+* [Maria Andreina Francisco Rodriguez](http://www.it.uu.se/katalog/marfr379), Uppsala University, Sweden
 * [Philippa Gardner](https://www.doc.ic.ac.uk/~pg/), Imperial College London, UK
 * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html), Tufts University, USA
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Mary Hall](http://www.cs.utah.edu/~mhall/), University of Utah, USA
 * [Rashina Hoda](https://unidirectory.auckland.ac.nz/profile/r-hoda), University of Auckland, New Zealand
+* [Alexandra Jimborean](http://www.it.uu.se/katalog/aleji304), Uppsala University, Sweden
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
@@ -35,11 +40,13 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University/EPFL, USA/Switzerland
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
 * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University, USA
+* [Ina Schaefer](https://www.tu-braunschweig.de/isf/team/schaefer), Technische Universität Braunschweig, Germany
 * [Sharon Shoham Buchbinder](http://www.tau.ac.il/~sharonshoham/), Tel Aviv University, Israel
 * [Alexandra Silva](http://www.alexandrasilva.org/#/main.html), University College London, UK
 * [Perdita Stevens](http://homepages.inf.ed.ac.uk/perdita/), University of Edinburgh, Scotland
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
+* [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
 
 ## Industry
 
@@ -68,6 +75,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
+* [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
 * [Marianna Rapoport](http://mrapoport.com/), University of Waterloo, Canada
