@@ -53,6 +53,7 @@ For your program committees, seminar series, etc. Please add yourself, or someon
 * [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
+* [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
 * [Marianna Rapoport](http://mrapoport.com/), University of Waterloo, Canada
 * [Talia Ringer](http://tlringer.github.io/), University of Washington, USA
