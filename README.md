@@ -9,7 +9,7 @@ And for people who are wondering why gender-balanced representation is a big dea
 
 Please add yourself, or someone who is comfortable being on this list, in alphabetical order. There are no guarantees about the comprehensiveness of this list.
 
-## Faculty (at Universities or Research Institutions)
+## Faculty and Research Scientists (at Universities or Research Institutions)
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
 * [Nada Amin](http://namin.net), University of Cambridge, UK
 * [Annette Bieniusa](https://softech.cs.uni-kl.de/homepage/de/staff/AnnetteBieniusa/), TU Kaiserslautern, Germany
