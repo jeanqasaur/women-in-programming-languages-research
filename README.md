@@ -1,13 +1,13 @@
 # Women in Programming Languages and Software Engineering Research
-For your program committees, seminar series, panels, etc. I started a list women in programming languages last summer when I was organizing the POPL Artifact Evaluation Committee with Catalin and we had a hard time coming up with women to balance out the committee.
+For your program committees, seminar series, panels, etc. I started a list women in programming languages last summer when I was co-organizing the Principles of Programming Languages Artifact Evaluation Committee and we had a hard time coming up with women to gender-balance the committee.
 
 A couple of comments about women and balance:
 * As a result of many well-meaning people trying to balance out committees, women get asked to be on committees *a lot*. It would be good to make it easy for women to say no and, even better, come up with some more globally optimal solution to the fact that while it's important to get women on committees and in front of people so there can be more women eventually, currently there simply aren't enough women to go around. (For department heads and people in charge of evaluating women's tenure cases: there must be some way to redistribute load. It simply doesn't add up to expect the women to represent women on all the committees--and often, in introductory teaching--and then hold them up to the same standards of research and department service as everyone else.)
 * Balance should not come at the cost of lower standards. Dropping standards for women (or any other group) introduces **explicit** bias because you're accepting that women can't be held to the same standards. (We talk a lot about implicit bias, but a lot of the bias that exists is often explicit and comes from things like this.) The right thing to do here is to use lists like this one to increase the pool and to be thoughtful about explicit and fair standards. Making it clear that this is what's happening is helpful so that people aren't assuming that the women and minorities got somewhere because of different standards. (Unfortunately, this happens a lot.)
 
-And for people who are wondering why this is a big deal, Adrienne Porter Felt has a [good post](https://techlady.haus/blog/2017/6/11/peer-review-gender-imbalance-in-program-committees) about this:
+And for people who are wondering why this is a big deal, Adrienne Porter Felt has a [good post](https://techlady.haus/blog/2017/6/11/peer-review-gender-imbalance-in-program-committees) about this.
 
-Please add yourself, or someone who is comfortable* being on this list, in alphabetical order. There are no guarantees about the comprehensiveness of this list.
+Please add yourself, or someone who is comfortable being on this list, in alphabetical order. (We would like to be sensitive to the fact that not all people may identify as women or want to be marked by their gender in such a way.) There are no guarantees about the comprehensiveness of this list.
 
 ## Faculty (at Universities or Research Institutions)
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
@@ -69,5 +69,3 @@ Please add yourself, or someone who is comfortable* being on this list, in alpha
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
 * [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst, USA
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
-
-* We should be sensitive to the fact that not all people may identify as women or want to be marked by their gender in such a way.
