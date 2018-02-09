@@ -28,6 +28,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
+* [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
 * [Chris Martens](https://www.csc.ncsu.edu/people/crmarten), North Carolina State University, USA
@@ -73,3 +74,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
 * [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst, USA
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
+
+## Other
+* [Audrey Tang](https://github.com/audreyt), Taiwan's Digital Minister, Taiwan
