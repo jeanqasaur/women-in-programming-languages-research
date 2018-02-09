@@ -12,6 +12,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## Faculty (at Universities or Research Institutions)
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
 * [Nada Amin](http://namin.net), University of Cambridge, UK
+* [Annette Bieniusa](https://softech.cs.uni-kl.de/homepage/de/staff/AnnetteBieniusa/), TU Kaiserslautern, Germany
 * [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/), University of Kent, UK
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India 
@@ -50,7 +51,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 
  * [Anne Ogborn](http://theelginworks.com), SWI-Prolog (works at The Elgin Works and Simularity)
  * [Maxime Chevalier-Boisvert](https://pointersgonewild.com), ZetaVM
- 
+
 ## Postdocs
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
