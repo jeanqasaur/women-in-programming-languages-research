@@ -63,6 +63,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
 * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
+* [Maryam Dabaghchian](https://sites.google.com/site/maryamdabaghchian/), University of Utah, USA
 * [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
