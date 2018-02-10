@@ -12,6 +12,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## Faculty and Research Scientists (at Universities or Research Institutions)
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
 * [Nada Amin](http://namin.net), University of Cambridge, UK
+* [Zena M. Ariola](http://ix.cs.uoregon.edu/~ariola/), University of Oregon, USA
 * [Stephanie Balzer](http://www.cs.cmu.edu/~balzers/), Carnegie Mellon University, USA
 * [Annette Bieniusa](https://softech.cs.uni-kl.de/homepage/de/staff/AnnetteBieniusa/), TU Kaiserslautern, Germany
 * [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
@@ -26,11 +27,13 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Azadeh Farzan](https://www.cs.toronto.edu/~azadeh/), University of Toronto, Canada
 * [Maria Andreina Francisco Rodriguez](http://www.it.uu.se/katalog/marfr379), Uppsala University, Sweden
 * [Philippa Gardner](https://www.doc.ic.ac.uk/~pg/), Imperial College London, UK
+* [Lilia Georgieva](https://www.linkedin.com/in/liliageorgievageorgieva/), Heriot Watt University, Edinburgh, UK
 * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html), Tufts University, USA
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Mary Hall](http://www.cs.utah.edu/~mhall/), University of Utah, USA
 * [Rashina Hoda](https://unidirectory.auckland.ac.nz/profile/r-hoda), University of Auckland, New Zealand
 * [Alexandra Jimborean](http://www.it.uu.se/katalog/aleji304), Uppsala University, Sweden
+* [Patricia Johann](https://cs.appstate.edu/~johannp/), Appalachian State University, USA
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
@@ -39,11 +42,14 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
 * [Chris Martens](https://www.csc.ncsu.edu/people/crmarten), North Carolina State University, USA
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University/EPFL, USA/Switzerland
+* [Mira Mizini](http://www.stg.tu-darmstadt.de/staff/mira_mezini/), TU Darmstadt, Germany
+* [Brigitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University, Canada
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
 * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University, USA
 * [Ina Schaefer](https://www.tu-braunschweig.de/isf/team/schaefer), Technische Universität Braunschweig, Germany
 * [Sharon Shoham Buchbinder](http://www.tau.ac.il/~sharonshoham/), Tel Aviv University, Israel
 * [Alexandra Silva](http://www.alexandrasilva.org/#/main.html), University College London, UK
+* [Ana Sokolova](http://cs.uni-salzburg.at/~anas/Ana_Sokolova/index.html), TU Eindhoven, Netherlands
 * [Perdita Stevens](http://homepages.inf.ed.ac.uk/perdita/), University of Edinburgh, Scotland
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
@@ -51,7 +57,8 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 
 ## Industry
 
- * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google
+ * [Cristina Cifuentes](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:21), Oracle Labs, Australia
+ * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google, USA
  * [Rezwana Karim](http://paul.rutgers.edu/~rkarim/), Samsung Research America
  * [Lindsey Kuper](http://composition.al), Intel Labs, USA
  * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
@@ -64,6 +71,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 
 ## Postdocs
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
+* [Kristina Sojakova[(http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
 
 ## PhD Students
