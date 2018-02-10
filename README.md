@@ -26,6 +26,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Azadeh Farzan](https://www.cs.toronto.edu/~azadeh/), University of Toronto, Canada
 * [Maria Andreina Francisco Rodriguez](http://www.it.uu.se/katalog/marfr379), Uppsala University, Sweden
 * [Philippa Gardner](https://www.doc.ic.ac.uk/~pg/), Imperial College London, UK
+* [Lilia Georgieva](https://www.linkedin.com/in/liliageorgievageorgieva/), Heriot Watt University, Edinburgh, UK
 * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html), Tufts University, USA
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Mary Hall](http://www.cs.utah.edu/~mhall/), University of Utah, USA
