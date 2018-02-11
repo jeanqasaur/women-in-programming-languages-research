@@ -58,6 +58,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## Industry
 
  * [Cristina Cifuentes](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:21), Oracle Labs, Australia
+ * [Valeria de Paiva] (https://research.nuance.com/author/valeria-de-paiva/), Nuance Communications, USA
  * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google, USA
  * [Rezwana Karim](http://paul.rutgers.edu/~rkarim/), Samsung Research America
  * [Lindsey Kuper](http://composition.al), Intel Labs, USA
