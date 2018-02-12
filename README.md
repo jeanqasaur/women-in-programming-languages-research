@@ -32,6 +32,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Mary Hall](http://www.cs.utah.edu/~mhall/), University of Utah, USA
 * [Rashina Hoda](https://unidirectory.auckland.ac.nz/profile/r-hoda), University of Auckland, New Zealand
+* [Limin Jia](http://www.andrew.cmu.edu/user/liminjia/), Carnegie Mellon University, USA
 * [Alexandra Jimborean](http://www.it.uu.se/katalog/aleji304), Uppsala University, Sweden
 * [Patricia Johann](https://cs.appstate.edu/~johannp/), Appalachian State University, USA
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
@@ -58,7 +59,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## Industry
 
  * [Cristina Cifuentes](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:21), Oracle Labs, Australia
- * [Valeria de Paiva] (https://research.nuance.com/author/valeria-de-paiva/), Nuance Communications, USA
+ * [Valeria de Paiva](https://research.nuance.com/author/valeria-de-paiva/), Nuance Communications, USA
  * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google, USA
  * [Rezwana Karim](http://paul.rutgers.edu/~rkarim/), Samsung Research America
  * [Lindsey Kuper](http://composition.al), Intel Labs, USA
