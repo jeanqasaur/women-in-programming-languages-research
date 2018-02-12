@@ -17,10 +17,14 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Annette Bieniusa](https://softech.cs.uni-kl.de/homepage/de/staff/AnnetteBieniusa/), TU Kaiserslautern, Germany
 * [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/), University of Kent, UK
+* [Sylvie Boldo](https://www.lri.fr/~sboldo/), INRIA, France
 * [Viviana Bono](http://www.di.unito.it/~bono/index.html), Università di Torino, Italy
+* [Ilaria Castellani](http://www-sop.inria.fr/members/Ilaria.Castellani/Home.html), INRIA, France
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India 
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
+* [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/), University of Glasgow, UK
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
+* [Mariangiola Dezani](http://www.di.unito.it/~dezani/), Università di Torino, Italy
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
 * [Sophia Drossopoulou](https://wp.doc.ic.ac.uk/sd/), Imperial College London, UK
 * [Sue Eisenbach](http://www.imperial.ac.uk/people/s.eisenbach), Imperial College London, UK
@@ -38,6 +42,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
+* [Ekaterina Komendantskaya](http://www.macs.hw.ac.uk/~ek19/), Heriot-Watt University, UK
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
 * [Chris Martens](https://www.csc.ncsu.edu/people/crmarten), North Carolina State University, USA
@@ -63,6 +68,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Lindsey Kuper](http://composition.al), Intel Labs, USA
  * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
+ * [Valeria de Paiva](http://vcvpaiva.github.io/), Nuance Communications, USA
 
 ## Open Source
 
@@ -70,9 +76,12 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Maxime Chevalier-Boisvert](https://pointersgonewild.com), ZetaVM
 
 ## Postdocs
+* [Jennifer Hackett](http://www.cs.nott.ac.uk/~psxjlha/), University of Nottingham, UK
+* [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
+* [Niki Vazou](https://nikivazou.github.io/), University of Maryland, USA
 
 ## PhD Students
 * [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
