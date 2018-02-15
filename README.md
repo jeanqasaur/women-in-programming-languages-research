@@ -22,6 +22,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
+* [Rayna Dimitrova](https://www2.le.ac.uk/departments/informatics/people/rayna-dimitrova), University of Leicester, UK
 * [Sophia Drossopoulou](https://wp.doc.ic.ac.uk/sd/), Imperial College London, UK
 * [Sue Eisenbach](http://www.imperial.ac.uk/people/s.eisenbach), Imperial College London, UK
 * [Azadeh Farzan](https://www.cs.toronto.edu/~azadeh/), University of Toronto, Canada
