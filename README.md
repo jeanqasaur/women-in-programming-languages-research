@@ -38,6 +38,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Patricia Johann](https://cs.appstate.edu/~johannp/), Appalachian State University, USA
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
+* [Gabrielle Keller](https://www.cse.unsw.edu.au/~keller/), University of New South Wales, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
@@ -48,12 +49,14 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Brigitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University, Canada
 * [Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/), Yale University, USA
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
+* [Julia Rubin](https://www.ece.ubc.ca/faculty/julia-rubin), University of British Columbia, Canada
 * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University, USA
 * [Ina Schaefer](https://www.tu-braunschweig.de/isf/team/schaefer), Technische Universität Braunschweig, Germany
 * [Sharon Shoham Buchbinder](http://www.tau.ac.il/~sharonshoham/), Tel Aviv University, Israel
 * [Alexandra Silva](http://www.alexandrasilva.org/#/main.html), University College London, UK
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/Ana_Sokolova/index.html), TU Eindhoven, Netherlands
 * [Perdita Stevens](http://homepages.inf.ed.ac.uk/perdita/), University of Edinburgh, Scotland
+* [Michelle Mills Strout](http://cgi.cs.arizona.edu/~mstrout/), University of Arizona, USA
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
