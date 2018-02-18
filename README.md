@@ -40,10 +40,12 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Gabrielle Keller](https://www.cse.unsw.edu.au/~keller/), University of New South Wales, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
+* [Chandra Krintz](http://www.cs.ucsb.edu/~ckrintz/), University of California, Santa Barbara, USA
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
 * [Chris Martens](https://www.csc.ncsu.edu/people/crmarten), North Carolina State University, USA
+* [Ana Milanova](http://www.cs.rpi.edu/~milanova/), Rensselaer Polytechnic Institute, USA
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University/EPFL, USA/Switzerland
 * [Mira Mizini](http://www.stg.tu-darmstadt.de/staff/mira_mezini/), TU Darmstadt, Germany
 * [Brigitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University, Canada
