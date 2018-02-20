@@ -80,6 +80,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Maxime Chevalier-Boisvert](https://pointersgonewild.com), ZetaVM
 
 ## Postdocs
+* [Maria Kechagia](https://mkechagia.github.io/), Delft University of Technology, Netherlands
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
