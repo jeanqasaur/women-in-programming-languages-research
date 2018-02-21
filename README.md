@@ -13,12 +13,14 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
 * [Nada Amin](http://namin.net), University of Cambridge, UK
 * [Zena M. Ariola](http://ix.cs.uoregon.edu/~ariola/), University of Oregon, USA
+* [Anya Helene Bagge](http://www.ii.uib.no/~anya/), University of Bergen, Norway
 * [Stephanie Balzer](http://www.cs.cmu.edu/~balzers/), Carnegie Mellon University, USA
 * [Annette Bieniusa](https://softech.cs.uni-kl.de/homepage/de/staff/AnnetteBieniusa/), TU Kaiserslautern, Germany
 * [Kelly Blincoe](http://kblincoe.github.io), University of Auckland, New Zealand
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/), University of Kent, UK
 * [Viviana Bono](http://www.di.unito.it/~bono/index.html), Università di Torino, Italy
-* [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India 
+* [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India
+* [Marsha Chechik](http://www.cs.toronto.edu/~chechik), 
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
@@ -26,12 +28,15 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Sophia Drossopoulou](https://wp.doc.ic.ac.uk/sd/), Imperial College London, UK
 * [Sue Eisenbach](http://www.imperial.ac.uk/people/s.eisenbach), Imperial College London, UK
 * [Azadeh Farzan](https://www.cs.toronto.edu/~azadeh/), University of Toronto, Canada
+* [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html), Tufts University, USA
 * [Maria Andreina Francisco Rodriguez](http://www.it.uu.se/katalog/marfr379), Uppsala University, Sweden
 * [Philippa Gardner](https://www.doc.ic.ac.uk/~pg/), Imperial College London, UK
 * [Lilia Georgieva](https://www.linkedin.com/in/liliageorgievageorgieva/), Heriot Watt University, Edinburgh, UK
-* [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html), Tufts University, USA
 * [Alessandra Gorla](http://software.imdea.org/~alessandra.gorla/), IMDEA Software Institute, Madrid, Spain
 * [Mary Hall](http://www.cs.utah.edu/~mhall/), University of Utah, USA
+* [Regina Hebig](https://www.chalmers.se/en/staff/Pages/hebig.aspx), Chalmers Gothenburg University, Sweden
+* [Görel Hedin](http://cs.lth.se/gorel-hedin/), Lund University, Sweden
+* [Felienne Hermans](http://www.felienne.com/about-3), Delft University of Technology, The Netherlands
 * [Rashina Hoda](https://unidirectory.auckland.ac.nz/profile/r-hoda), University of Auckland, New Zealand
 * [Limin Jia](http://www.andrew.cmu.edu/user/liminjia/), Carnegie Mellon University, USA
 * [Alexandra Jimborean](http://www.it.uu.se/katalog/aleji304), Uppsala University, Sweden
@@ -54,6 +59,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Julia Rubin](https://www.ece.ubc.ca/faculty/julia-rubin), University of British Columbia, Canada
 * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University, USA
 * [Ina Schaefer](https://www.tu-braunschweig.de/isf/team/schaefer), Technische Universität Braunschweig, Germany
+* [Sibylle Schupp](https://www.tuhh.de/sts/institute/prof-dr-sibylle-schupp.html), Technische Universität Hamburg-Harburg, Germany
 * [Sharon Shoham Buchbinder](http://www.tau.ac.il/~sharonshoham/), Tel Aviv University, Israel
 * [Alexandra Silva](http://www.alexandrasilva.org/#/main.html), University College London, UK
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/Ana_Sokolova/index.html), TU Eindhoven, Netherlands
@@ -61,6 +67,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Michelle Mills Strout](http://cgi.cs.arizona.edu/~mstrout/), University of Arizona, USA
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
+* [Aiko Yamashita](https://about.me/aiko.yamashita), CWI, The Netherlands / Akershus University of Applied Sciences, Norway
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
 
 ## Industry
