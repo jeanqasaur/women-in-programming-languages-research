@@ -76,6 +76,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Valeria de Paiva](https://research.nuance.com/author/valeria-de-paiva/), Nuance Communications, USA
  * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google, USA
  * [Rezwana Karim](http://paul.rutgers.edu/~rkarim/), Samsung Research America
+ * [Heidy Khlaaf](http://heidyk.com/), Adelard, UK
  * [Lindsey Kuper](http://composition.al), Intel Labs, USA
  * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
