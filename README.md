@@ -52,7 +52,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Chris Martens](https://www.csc.ncsu.edu/people/crmarten), North Carolina State University, USA
 * [Ana Milanova](http://www.cs.rpi.edu/~milanova/), Rensselaer Polytechnic Institute, USA
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University/EPFL, USA/Switzerland
-* [Mira Mizini](http://www.stg.tu-darmstadt.de/staff/mira_mezini/), TU Darmstadt, Germany
+* [Mira Mezini](http://www.stg.tu-darmstadt.de/staff/mira_mezini/), TU Darmstadt, Germany
 * [Brigitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University, Canada
 * [Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/), Yale University, USA
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
