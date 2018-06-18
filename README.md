@@ -69,6 +69,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
 * [Aiko Yamashita](https://about.me/aiko.yamashita), CWI, The Netherlands / Akershus University of Applied Sciences, Norway
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
+* [Ekaterina Komendantskaya](http://www.macs.hw.ac.uk/~ek19/), Heriot-Watt University, UK
 
 ## Industry
 
