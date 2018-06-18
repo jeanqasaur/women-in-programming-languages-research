@@ -81,6 +81,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
+ * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
 
 ## Open Source
 
@@ -94,11 +95,11 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
+* [Azalea Raad](http://www.soundandcomplete.org/), MPI-SWS, Germany
 
 ## PhD Students
 * [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
 * [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
-* [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
 * [Maryam Dabaghchian](https://sites.google.com/site/maryamdabaghchian/), University of Utah, USA
 * [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
