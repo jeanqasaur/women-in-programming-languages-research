@@ -105,10 +105,12 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
 * [Maryam Dabaghchian](https://sites.google.com/site/maryamdabaghchian/), University of Utah, USA
+* [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
 * [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
-* [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
+* [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
+* [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Darya Melicher](https://www.cs.cmu.edu/~dkurilov/), Carnegie Mellon University, USA
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
@@ -119,7 +121,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst, USA
 * [Jenna Wise](https://www.cs.cmu.edu/~jlwise/), Carnegie Mellon University, USA
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
-* [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
 
 ## Other
 * [Audrey Tang](https://github.com/audreyt), Taiwan's Digital Minister, Taiwan
