@@ -82,6 +82,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
+ * [Jennifer Paykin](http://www.cis.upenn.edu/~jpaykin/), Galois, USA
 
 ## Open Source
 
