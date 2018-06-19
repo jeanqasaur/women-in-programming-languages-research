@@ -96,6 +96,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
+* [Niki Vazou](https://nikivazou.github.io/), University of Maryland, USA
 
 ## PhD Students
 * [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
