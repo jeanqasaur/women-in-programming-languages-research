@@ -44,6 +44,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Gabrielle Keller](https://www.cse.unsw.edu.au/~keller/), University of New South Wales, UK
+* [Ekaterina Komendantskaya](http://www.macs.hw.ac.uk/~ek19/), Heriot-Watt University, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Chandra Krintz](http://www.cs.ucsb.edu/~ckrintz/), University of California, Santa Barbara, USA
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
@@ -69,7 +70,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
 * [Aiko Yamashita](https://about.me/aiko.yamashita), CWI, The Netherlands / Akershus University of Applied Sciences, Norway
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
-* [Ekaterina Komendantskaya](http://www.macs.hw.ac.uk/~ek19/), Heriot-Watt University, UK
 
 ## Industry
 
