@@ -71,6 +71,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Aiko Yamashita](https://about.me/aiko.yamashita), CWI, The Netherlands / Akershus University of Applied Sciences, Norway
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
 * [Lindsey Kuper](http://composition.al),  University of California, Santa Cruz, USA
+* [Christine Rizkallah](http://www.cse.unsw.edu.au/~crizkallah/), University of New South Wales, Australia
 
 
 ## Industry
