@@ -20,7 +20,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/), University of Kent, UK
 * [Viviana Bono](http://www.di.unito.it/~bono/index.html), Università di Torino, Italy
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India
-* [Marsha Chechik](http://www.cs.toronto.edu/~chechik), 
+* [Marsha Chechik](http://www.cs.toronto.edu/~chechik), University of Toronto, Canada
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
@@ -44,6 +44,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Gabrielle Keller](https://www.cse.unsw.edu.au/~keller/), University of New South Wales, UK
+* [Ekaterina Komendantskaya](http://www.macs.hw.ac.uk/~ek19/), Heriot-Watt University, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Chandra Krintz](http://www.cs.ucsb.edu/~ckrintz/), University of California, Santa Barbara, USA
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
@@ -74,6 +75,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 
  * [Cristina Cifuentes](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:21), Oracle Labs, Australia
  * [Valeria de Paiva](https://research.nuance.com/author/valeria-de-paiva/), Nuance Communications, USA
+ * [Jennifer Paykin](http://www.cis.upenn.edu/~jpaykin/), Galois, USA
  * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google, USA
  * [Rezwana Karim](http://paul.rutgers.edu/~rkarim/), Samsung Research America
  * [Heidy Khlaaf](http://heidyk.com/), Adelard, UK
@@ -92,10 +94,11 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Eleni Constantinou](http://www.econst.eu), University of Mons, Belgium
 * [Maria Kechagia](https://mkechagia.github.io/), Delft University of Technology, Netherlands
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
+* [Azalea Raad](http://www.soundandcomplete.org/), MPI-SWS, Germany
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
-* [Azalea Raad](http://www.soundandcomplete.org/), MPI-SWS, Germany
+* [Niki Vazou](https://nikivazou.github.io/), University of Maryland, USA
 
 ## PhD Students
 * [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
@@ -116,6 +119,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst, USA
 * [Jenna Wise](https://www.cs.cmu.edu/~jlwise/), Carnegie Mellon University, USA
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
+* [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
 
 ## Other
 * [Audrey Tang](https://github.com/audreyt), Taiwan's Digital Minister, Taiwan
