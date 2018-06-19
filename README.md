@@ -20,7 +20,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Laura Bocchi](https://www.cs.kent.ac.uk/people/staff/lb514/), University of Kent, UK
 * [Viviana Bono](http://www.di.unito.it/~bono/index.html), Università di Torino, Italy
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India
-* [Marsha Chechik](http://www.cs.toronto.edu/~chechik), 
+* [Marsha Chechik](http://www.cs.toronto.edu/~chechik), University of Toronto, Canada
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
