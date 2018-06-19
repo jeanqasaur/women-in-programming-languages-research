@@ -70,6 +70,8 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
 * [Aiko Yamashita](https://about.me/aiko.yamashita), CWI, The Netherlands / Akershus University of Applied Sciences, Norway
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
+* [Lindsey Kuper](http://composition.al),  University of California, Santa Cruz, USA
+
 
 ## Industry
 
@@ -79,7 +81,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google, USA
  * [Rezwana Karim](http://paul.rutgers.edu/~rkarim/), Samsung Research America
  * [Heidy Khlaaf](http://heidyk.com/), Adelard, UK
- * [Lindsey Kuper](http://composition.al), Intel Labs, USA
  * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
