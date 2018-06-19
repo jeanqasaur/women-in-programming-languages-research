@@ -115,6 +115,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst, USA
 * [Jenna Wise](https://www.cs.cmu.edu/~jlwise/), Carnegie Mellon University, USA
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
+* [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
 
 ## Other
 * [Audrey Tang](https://github.com/audreyt), Taiwan's Digital Minister, Taiwan
