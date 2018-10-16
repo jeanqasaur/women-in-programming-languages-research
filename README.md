@@ -110,6 +110,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
+* [Wen Kokke](http://wenkokke.github.io/), University of Edinburgh, Scotland
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Darya Melicher](https://www.cs.cmu.edu/~dkurilov/), Carnegie Mellon University, USA
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
