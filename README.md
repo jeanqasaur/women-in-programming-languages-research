@@ -43,7 +43,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Patricia Johann](https://cs.appstate.edu/~johannp/), Appalachian State University, USA
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
-* [Gabrielle Keller](https://www.cse.unsw.edu.au/~keller/), University of New South Wales, UK
+* [Gabriele Keller](https://www.cse.unsw.edu.au/~keller/), University of New South Wales, UK
 * [Ekaterina Komendantskaya](http://www.macs.hw.ac.uk/~ek19/), Heriot-Watt University, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Chandra Krintz](http://www.cs.ucsb.edu/~ckrintz/), University of California, Santa Barbara, USA
