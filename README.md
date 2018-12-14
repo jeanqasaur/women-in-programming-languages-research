@@ -70,6 +70,9 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
 * [Aiko Yamashita](https://about.me/aiko.yamashita), CWI, The Netherlands / Akershus University of Applied Sciences, Norway
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
+* [Lindsey Kuper](http://composition.al),  University of California, Santa Cruz, USA
+* [Christine Rizkallah](http://www.cse.unsw.edu.au/~crizkallah/), University of New South Wales, Australia
+
 
 ## Industry
 
@@ -79,10 +82,10 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google, USA
  * [Rezwana Karim](http://paul.rutgers.edu/~rkarim/), Samsung Research America
  * [Heidy Khlaaf](http://heidyk.com/), Adelard, UK
- * [Lindsey Kuper](http://composition.al), Intel Labs, USA
  * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
+ * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
 
 ## Open Source
 
@@ -91,8 +94,10 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 
 ## Postdocs
 * [Eleni Constantinou](http://www.econst.eu), University of Mons, Belgium
+* [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
 * [Maria Kechagia](https://mkechagia.github.io/), Delft University of Technology, Netherlands
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
+* [Azalea Raad](http://www.soundandcomplete.org/), MPI-SWS, Germany
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
@@ -100,15 +105,18 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 
 ## PhD Students
 * [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
-* [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
-* [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), MPI-SWS, Germany
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
+* [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
 * [Maryam Dabaghchian](https://sites.google.com/site/maryamdabaghchian/), University of Utah, USA
+* [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
 * [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
 * [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
+* [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
+* [Caroline Lemieux](http://www.carolemieux.com/), University of California, Berkeley, USA
+* [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Darya Melicher](https://www.cs.cmu.edu/~dkurilov/), Carnegie Mellon University, USA
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Zoe Paraskevopoulou](https://zoep.github.io/), Princeton University, USA
