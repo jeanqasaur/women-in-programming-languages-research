@@ -105,8 +105,8 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 
 ## PhD Students
 * [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
-* [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
+* [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
 * [Maryam Dabaghchian](https://sites.google.com/site/maryamdabaghchian/), University of Utah, USA
 * [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
 * [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
@@ -114,6 +114,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
+* [Caroline Lemieux](http://www.carolemieux.com/), University of California, Berkeley, USA
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Darya Melicher](https://www.cs.cmu.edu/~dkurilov/), Carnegie Mellon University, USA
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
