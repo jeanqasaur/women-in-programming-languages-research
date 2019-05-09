@@ -66,6 +66,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/Ana_Sokolova/index.html), TU Eindhoven, Netherlands
 * [Perdita Stevens](http://homepages.inf.ed.ac.uk/perdita/), University of Edinburgh, Scotland
 * [Michelle Mills Strout](http://cgi.cs.arizona.edu/~mstrout/), University of Arizona, USA
+* [Caterina Urban](https://caterinaurban.github.io), INRIA & École Normale Supérieure, France
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
 * [Aiko Yamashita](https://about.me/aiko.yamashita), CWI, The Netherlands / Akershus University of Applied Sciences, Norway
@@ -100,7 +101,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Azalea Raad](http://www.soundandcomplete.org/), MPI-SWS, Germany
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
-* [Caterina Urban](http://people.inf.ethz.ch/caurban/), ETH Zurich, Switzerland
 * [Niki Vazou](https://nikivazou.github.io/), University of Maryland, USA
 
 ## PhD Students
