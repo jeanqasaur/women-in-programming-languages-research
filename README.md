@@ -103,6 +103,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Azalea Raad](http://www.soundandcomplete.org/), MPI-SWS, Germany
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
+* [Hira Taqdees Syeda](https://ts.data61.csiro.au/people/?cn=Hira+Taqdees+Syeda), Data61 CSIRO and UNSW Sydney, Australia
 * [Niki Vazou](https://nikivazou.github.io/), University of Maryland, USA
 
 ## PhD Students
