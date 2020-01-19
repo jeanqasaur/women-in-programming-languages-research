@@ -66,7 +66,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/Ana_Sokolova/index.html), TU Eindhoven, Netherlands
 * [Perdita Stevens](http://homepages.inf.ed.ac.uk/perdita/), University of Edinburgh, Scotland
 * [Michelle Mills Strout](http://cgi.cs.arizona.edu/~mstrout/), University of Arizona, USA
-* [Shin Hwei Tan](http://www.shinhwei.com/), Southern University of Science and Technology, China 
+* [Shin Hwei Tan](http://www.shinhwei.com/), Southern University of Science and Technology, China
 * [Caterina Urban](https://caterinaurban.github.io), INRIA & École Normale Supérieure, France
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
@@ -89,6 +89,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
  * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
  * [Laura Titolo](https://lauratitolo.github.io/), NIA/NASA Langley, USA
+ * [Marianna Rapoport](http://mrapoport.com/), Concordium, Denmark
 
 ## Open Source
 
@@ -124,7 +125,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Zoe Paraskevopoulou](https://zoep.github.io/), Princeton University, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
-* [Marianna Rapoport](http://mrapoport.com/), University of Waterloo, Canada
 * [Talia Ringer](http://tlringer.github.io/), University of Washington, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
