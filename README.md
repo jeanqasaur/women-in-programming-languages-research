@@ -99,7 +99,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## Postdocs
 * [Eleni Constantinou](http://www.econst.eu), University of Mons, Belgium
 * [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
-* [Maria Kechagia](https://mkechagia.github.io/), Delft University of Technology, Netherlands
+* [Maria Kechagia](https://mkechagia.github.io/), University College London, UK
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
 * [Azalea Raad](http://www.soundandcomplete.org/), MPI-SWS, Germany
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
