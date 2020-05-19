@@ -57,6 +57,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Brigitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University, Canada
 * [Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/), Yale University, USA
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
+* [Paige Rodeghero](paigerodeghero.com), Clemson University, USA
 * [Julia Rubin](https://www.ece.ubc.ca/faculty/julia-rubin), University of British Columbia, Canada
 * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University, USA
 * [Ina Schaefer](https://www.tu-braunschweig.de/isf/team/schaefer), Technische Universität Braunschweig, Germany
