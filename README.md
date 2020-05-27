@@ -22,6 +22,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India
 * [Marsha Chechik](http://www.cs.toronto.edu/~chechik), University of Toronto, Canada
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
+* [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/), University of Glasgow, UK
 * [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
 * [Rayna Dimitrova](https://www2.le.ac.uk/departments/informatics/people/rayna-dimitrova), University of Leicester, UK
@@ -132,6 +133,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst, USA
 * [Jenna Wise](https://www.cs.cmu.edu/~jlwise/), Carnegie Mellon University, USA
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
+* [Uma Zalakain](https://umazalakain.info/), University of Glasgow, UK
 
 ## Other
 * [Audrey Tang](https://github.com/audreyt), Taiwan's Digital Minister, Taiwan
