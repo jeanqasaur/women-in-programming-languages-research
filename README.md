@@ -115,7 +115,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
 * [Maryam Dabaghchian](https://sites.google.com/site/maryamdabaghchian/), University of Utah, USA
 * [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
-* [Ju Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
+* [April Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
