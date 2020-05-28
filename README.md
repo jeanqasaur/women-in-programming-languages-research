@@ -48,6 +48,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Ekaterina Komendantskaya](http://www.macs.hw.ac.uk/~ek19/), Heriot-Watt University, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Chandra Krintz](http://www.cs.ucsb.edu/~ckrintz/), University of California, Santa Barbara, USA
+* [Lindsey Kuper](http://composition.al),  University of California, Santa Cruz, USA
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
@@ -58,6 +59,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Brigitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University, Canada
 * [Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/), Yale University, USA
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
+* [Christine Rizkallah](http://www.cse.unsw.edu.au/~crizkallah/), University of New South Wales, Australia
 * [Paige Rodeghero](paigerodeghero.com), Clemson University, USA
 * [Julia Rubin](https://www.ece.ubc.ca/faculty/julia-rubin), University of British Columbia, Canada
 * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University, USA
@@ -70,13 +72,11 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Michelle Mills Strout](http://cgi.cs.arizona.edu/~mstrout/), University of Arizona, USA
 * [Shin Hwei Tan](http://www.shinhwei.com/), Southern University of Science and Technology, China
 * [Caterina Urban](https://caterinaurban.github.io), INRIA & École Normale Supérieure, France
+* [Niki Vazou](https://nikivazou.github.io/), IMDEA Software Institute Madrid, Spain
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
 * [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
 * [Aiko Yamashita](https://about.me/aiko.yamashita), CWI, The Netherlands / Akershus University of Applied Sciences, Norway
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
-* [Lindsey Kuper](http://composition.al),  University of California, Santa Cruz, USA
-* [Christine Rizkallah](http://www.cse.unsw.edu.au/~crizkallah/), University of New South Wales, Australia
-
 
 ## Industry
 
@@ -107,7 +107,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Hira Taqdees Syeda](https://ts.data61.csiro.au/people/?cn=Hira+Taqdees+Syeda), Data61 CSIRO and UNSW Sydney, Australia
-* [Niki Vazou](https://nikivazou.github.io/), University of Maryland, USA
 
 ## PhD Students
 * [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
