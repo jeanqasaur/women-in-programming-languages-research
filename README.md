@@ -61,6 +61,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
 * [Christine Rizkallah](http://www.cse.unsw.edu.au/~crizkallah/), University of New South Wales, Australia
 * [Paige Rodeghero](paigerodeghero.com), Clemson University, USA
+* [Kristin Yvonne Rozier] (laboratory.temporallogic.org), Iowa State University, USA
 * [Julia Rubin](https://www.ece.ubc.ca/faculty/julia-rubin), University of British Columbia, Canada
 * [Roopsha Samanta](https://www.cs.purdue.edu/homes/roopsha/), Purdue University, USA
 * [Ina Schaefer](https://www.tu-braunschweig.de/isf/team/schaefer), Technische Universität Braunschweig, Germany
