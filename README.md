@@ -122,6 +122,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
 * [Caroline Lemieux](http://www.carolemieux.com/), University of California, Berkeley, USA
+* [Debasmita Lohar](https://people.mpi-sws.org/~dlohar/), MPI-SWS, Germany
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Darya Melicher](https://www.cs.cmu.edu/~dkurilov/), Carnegie Mellon University, USA
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
