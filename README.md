@@ -118,7 +118,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [April Gonçalves](http://cyberglot.me/), Roskilde University, Denmark
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
-* [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
+* [Anastasiia Izycheva](https://www.in.tum.de/i02/personen/anastasiia-izycheva/), TU Munich, Germany
 * [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
 * [Caroline Lemieux](http://www.carolemieux.com/), University of California, Berkeley, USA
