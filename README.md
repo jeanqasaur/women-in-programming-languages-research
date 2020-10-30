@@ -72,6 +72,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Perdita Stevens](http://homepages.inf.ed.ac.uk/perdita/), University of Edinburgh, Scotland
 * [Michelle Mills Strout](http://cgi.cs.arizona.edu/~mstrout/), University of Arizona, USA
 * [Shin Hwei Tan](http://www.shinhwei.com/), Southern University of Science and Technology, China
+* [Emma Tosch](https://uvm.edu/~etosch), University of Vermont, USA
 * [Caterina Urban](https://caterinaurban.github.io), INRIA & École Normale Supérieure, France
 * [Niki Vazou](https://nikivazou.github.io/), IMDEA Software Institute Madrid, Spain
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
@@ -131,7 +132,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Talia Ringer](http://tlringer.github.io/), University of Washington, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
-* [Emma Tosch](http://cs.umass.edu/~etosch), University of Massachusetts Amherst, USA
 * [Jenna Wise](https://www.cs.cmu.edu/~jlwise/), Carnegie Mellon University, USA
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
 * [Uma Zalakain](https://umazalakain.info/), University of Glasgow, UK
