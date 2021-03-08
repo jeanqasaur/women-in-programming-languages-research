@@ -58,6 +58,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Brigitte Pientka](http://www.cs.mcgill.ca/~bpientka/), McGill University, Canada
 * [Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/), Yale University, USA
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
+* [Azalea Raad](http://www.soundandcomplete.org/), Imperial College London, UK
 * [Christine Rizkallah](http://www.cse.unsw.edu.au/~crizkallah/), University of New South Wales, Australia
 * [Paige Rodeghero](paigerodeghero.com), Clemson University, USA
 * [Kristin Yvonne Rozier](laboratory.temporallogic.org), Iowa State University, USA
@@ -104,7 +105,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
 * [Maria Kechagia](https://mkechagia.github.io/), University College London, UK
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
-* [Azalea Raad](http://www.soundandcomplete.org/), MPI-SWS, Germany
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Hira Taqdees Syeda](https://ts.data61.csiro.au/people/?cn=Hira+Taqdees+Syeda), Data61 CSIRO and UNSW Sydney, Australia
