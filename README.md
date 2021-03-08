@@ -52,7 +52,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
-* [Chris Martens](https://www.csc.ncsu.edu/people/crmarten), North Carolina State University, USA
 * [Ana Milanova](http://www.cs.rpi.edu/~milanova/), Rensselaer Polytechnic Institute, USA
 * [Heather Miller](https://twitter.com/heathercmiller), Northeastern University/EPFL, USA/Switzerland
 * [Mira Mezini](http://www.stg.tu-darmstadt.de/staff/mira_mezini/), TU Darmstadt, Germany
