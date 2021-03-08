@@ -37,7 +37,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Mary Hall](http://www.cs.utah.edu/~mhall/), University of Utah, USA
 * [Regina Hebig](https://www.chalmers.se/en/staff/Pages/hebig.aspx), Chalmers Gothenburg University, Sweden
 * [Görel Hedin](http://cs.lth.se/gorel-hedin/), Lund University, Sweden
-* [Felienne Hermans](http://www.felienne.com/about-3), Delft University of Technology, The Netherlands
+* [Felienne Hermans](https://www.felienne.com/bio-and-pic), Leiden University, The Netherlands
 * [Rashina Hoda](https://unidirectory.auckland.ac.nz/profile/r-hoda), University of Auckland, New Zealand
 * [Limin Jia](http://www.andrew.cmu.edu/user/liminjia/), Carnegie Mellon University, USA
 * [Alexandra Jimborean](http://www.it.uu.se/katalog/aleji304), Uppsala University, Sweden
