@@ -112,6 +112,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## PhD Students
 * [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
+* [Julia Belyakova](https://julbinb.github.io/), Northeastern University, USA
 * [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
 * [Maryam Dabaghchian](https://sites.google.com/site/maryamdabaghchian/), University of Utah, USA
 * [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
