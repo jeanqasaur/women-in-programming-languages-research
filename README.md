@@ -59,6 +59,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Ruzica Piskac](http://www.cs.yale.edu/homes/piskac/), Yale University, USA
 * [Nadia Polikarpova](http://people.csail.mit.edu/polikarn/), University of California, San Diego, USA
 * [Azalea Raad](http://www.soundandcomplete.org/), Imperial College London, UK
+* [Talia Ringer](http://tlringer.github.io/), University of Illinois Urbana-Champaign, USA
 * [Christine Rizkallah](http://www.cse.unsw.edu.au/~crizkallah/), University of New South Wales, Australia
 * [Paige Rodeghero](paigerodeghero.com), Clemson University, USA
 * [Kristin Yvonne Rozier](laboratory.temporallogic.org), Iowa State University, USA
@@ -129,7 +130,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Darya Melicher](https://www.cs.cmu.edu/~dkurilov/), Carnegie Mellon University, USA
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
-* [Talia Ringer](http://tlringer.github.io/), University of Washington, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
 * [Jenna Wise](https://www.cs.cmu.edu/~jlwise/), Carnegie Mellon University, USA
