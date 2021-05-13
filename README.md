@@ -102,10 +102,12 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 
 ## Postdocs
 * [Eleni Constantinou](http://www.econst.eu), University of Mons, Belgium
+* [Eva Graversen](https://portal.findresearcher.sdu.dk/en/persons/efgraversen), University of Southern Denmark, Denmark
 * [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
 * [Maria Kechagia](https://mkechagia.github.io/), University College London, UK
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
 * [Zoe Paraskevopoulou](https://zoep.github.io/), Northeastern University, USA
+* [Larisa Safina](https://lsafina.github.io/), INRIA, France
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Hira Taqdees Syeda](https://ts.data61.csiro.au/people/?cn=Hira+Taqdees+Syeda), Data61 CSIRO and UNSW Sydney, Australia
