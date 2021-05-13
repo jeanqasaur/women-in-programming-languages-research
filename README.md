@@ -11,7 +11,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 
 ## Faculty and Research Scientists (at Universities or Research Institutions)
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
-* [Nada Amin](http://namin.net), University of Cambridge, UK
+* [Nada Amin](https://namin.seas.harvard.edu), Harvard University, USA
 * [Zena M. Ariola](http://ix.cs.uoregon.edu/~ariola/), University of Oregon, USA
 * [Anya Helene Bagge](http://www.ii.uib.no/~anya/), University of Bergen, Norway
 * [Stephanie Balzer](http://www.cs.cmu.edu/~balzers/), Carnegie Mellon University, USA
