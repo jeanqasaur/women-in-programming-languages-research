@@ -77,7 +77,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Caterina Urban](https://caterinaurban.github.io), INRIA & École Normale Supérieure, France
 * [Niki Vazou](https://nikivazou.github.io/), IMDEA Software Institute Madrid, Spain
 * [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/), University of Pennsylvania, USA
-* [Jean Yang](http://jeanyang.com), Carnegie Mellon University, USA
 * [Aiko Yamashita](https://about.me/aiko.yamashita), CWI, The Netherlands / Akershus University of Applied Sciences, Norway
 * [Nobuko Yoshida](http://mrg.doc.ic.ac.uk/people/nobuko-yoshida/), Imperial College London, UK
 
@@ -95,6 +94,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
  * [Laura Titolo](https://lauratitolo.github.io/), NIA/NASA Langley, USA
  * [Marianna Rapoport](http://mrapoport.com/), Concordium, Denmark
+ * [Jean Yang](http://jeanyang.com), Akita Software, USA
 
 ## Open Source
 
