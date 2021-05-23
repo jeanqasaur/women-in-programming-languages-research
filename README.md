@@ -93,6 +93,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Heidy Khlaaf](http://heidyk.com/), Adelard, UK
  * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
+ * [Darya Melicher](https://www.cs.cmu.edu/~dkurilov/), Google, USA
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
  * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
  * [Marianna Rapoport](http://mrapoport.com/), Amazon, Canada
@@ -131,7 +132,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Caroline Lemieux](http://www.carolemieux.com/), University of California, Berkeley, USA
 * [Debasmita Lohar](https://people.mpi-sws.org/~dlohar/), MPI-SWS, Germany
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
-* [Darya Melicher](https://www.cs.cmu.edu/~dkurilov/), Carnegie Mellon University, USA
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
