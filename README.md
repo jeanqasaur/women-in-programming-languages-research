@@ -93,7 +93,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
  * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
  * [Laura Titolo](https://lauratitolo.github.io/), NIA/NASA Langley, USA
- * [Marianna Rapoport](http://mrapoport.com/), Concordium, Denmark
+ * [Marianna Rapoport](http://mrapoport.com/), Amazon, Canada 
  * [Jean Yang](http://jeanyang.com), Akita Software, USA
 
 ## Open Source
