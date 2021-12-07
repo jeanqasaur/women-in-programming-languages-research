@@ -73,6 +73,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Perdita Stevens](http://homepages.inf.ed.ac.uk/perdita/), University of Edinburgh, Scotland
 * [Michelle Mills Strout](http://cgi.cs.arizona.edu/~mstrout/), University of Arizona, USA
 * [Shin Hwei Tan](http://www.shinhwei.com/), Southern University of Science and Technology, China
+* [Laura Titolo](https://lauratitolo.github.io/), NIA/NASA Langley, USA
 * [Emma Tosch](https://uvm.edu/~etosch), University of Vermont, USA
 * [Caterina Urban](https://caterinaurban.github.io), INRIA & École Normale Supérieure, France
 * [Niki Vazou](https://nikivazou.github.io/), IMDEA Software Institute Madrid, Spain
@@ -92,7 +93,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
  * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
- * [Laura Titolo](https://lauratitolo.github.io/), NIA/NASA Langley, USA
  * [Marianna Rapoport](http://mrapoport.com/), Concordium, Denmark
  * [Jean Yang](http://jeanyang.com), Akita Software, USA
 
