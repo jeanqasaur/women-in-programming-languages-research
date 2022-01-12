@@ -10,6 +10,7 @@ And for people who are wondering why gender-balanced representation is a big dea
 Please add yourself, or someone who is comfortable being on this list, in alphabetical order. There are no guarantees about the comprehensiveness of this list.
 
 ## Faculty and Research Scientists (at Universities or Research Institutions)
+* [Sara Achour](https://people.csail.mit.edu/sachour/), Stanford, USA
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
 * [Nada Amin](https://namin.seas.harvard.edu), Harvard University, USA
 * [Zena M. Ariola](http://ix.cs.uoregon.edu/~ariola/), University of Oregon, USA
@@ -68,7 +69,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Ina Schaefer](https://www.tu-braunschweig.de/isf/team/schaefer), Technische Universität Braunschweig, Germany
 * [Sibylle Schupp](https://www.tuhh.de/sts/institute/prof-dr-sibylle-schupp.html), Technische Universität Hamburg-Harburg, Germany
 * [Sharon Shoham Buchbinder](http://www.tau.ac.il/~sharonshoham/), Tel Aviv University, Israel
-* [Alexandra Silva](http://www.alexandrasilva.org/#/main.html), University College London, UK
+* [Alexandra Silva](http://www.alexandrasilva.org/#/main.html), Cornell University, USA
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/), TU Eindhoven, Netherlands
 * [Perdita Stevens](http://homepages.inf.ed.ac.uk/perdita/), University of Edinburgh, Scotland
 * [Michelle Mills Strout](http://cgi.cs.arizona.edu/~mstrout/), University of Arizona, USA
@@ -114,7 +115,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Hira Taqdees Syeda](https://ts.data61.csiro.au/people/?cn=Hira+Taqdees+Syeda), Data61 CSIRO and UNSW Sydney, Australia
 
 ## PhD Students
-* [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
 * [Julia Belyakova](https://julbinb.github.io/), Northeastern University, USA
 * [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
