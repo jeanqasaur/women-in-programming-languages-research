@@ -94,7 +94,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
  * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
- * [Marianna Rapoport](http://mrapoport.com/), Concordium, Denmark
+ * [Marianna Rapoport](http://mrapoport.com/), Amazon, Canada
  * [Jean Yang](http://jeanyang.com), Akita Software, USA
 
 ## Open Source
