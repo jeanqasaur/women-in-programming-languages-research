@@ -73,6 +73,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Perdita Stevens](http://homepages.inf.ed.ac.uk/perdita/), University of Edinburgh, Scotland
 * [Michelle Mills Strout](http://cgi.cs.arizona.edu/~mstrout/), University of Arizona, USA
 * [Shin Hwei Tan](http://www.shinhwei.com/), Southern University of Science and Technology, China
+* [Laura Titolo](https://lauratitolo.github.io/), NIA/NASA Langley, USA
 * [Emma Tosch](https://uvm.edu/~etosch), University of Vermont, USA
 * [Caterina Urban](https://caterinaurban.github.io), INRIA & École Normale Supérieure, France
 * [Niki Vazou](https://nikivazou.github.io/), IMDEA Software Institute Madrid, Spain
@@ -83,17 +84,17 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## Industry
 
  * [Cristina Cifuentes](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:21), Oracle Labs, Australia
- * [Valeria de Paiva](https://research.nuance.com/author/valeria-de-paiva/), Nuance Communications, USA
- * [Jennifer Paykin](http://www.cis.upenn.edu/~jpaykin/), Galois, USA
+ * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
+ * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
  * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google, USA
  * [Rezwana Karim](http://paul.rutgers.edu/~rkarim/), Samsung Research America
  * [Heidy Khlaaf](http://heidyk.com/), Adelard, UK
- * [Daira Hopwood](https://github.com/daira), Jacaranda Software / Zerocoin Electric Coin Company
  * [Kathryn McKinley](https://www.cs.utexas.edu/users/mckinley/), Google, USA
+ * [Valeria de Paiva](https://research.nuance.com/author/valeria-de-paiva/), Nuance Communications, USA
+ * [Jennifer Paykin](http://www.cis.upenn.edu/~jpaykin/), Galois, USA
+ * [Marianna Rapoport](http://mrapoport.com/), Amazon, Canada
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
- * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
  * [Laura Titolo](https://lauratitolo.github.io/), NIA/NASA Langley, USA
- * [Marianna Rapoport](http://mrapoport.com/), Amazon, Canada 
  * [Jean Yang](http://jeanyang.com), Akita Software, USA
 
 ## Open Source
