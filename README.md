@@ -24,7 +24,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Marsha Chechik](http://www.cs.toronto.edu/~chechik), University of Toronto, Canada
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
 * [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/), University of Glasgow, UK
-* [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
+* [Eva Darulova](https://malyzajko.github.io/), Uppsala University, Sweden
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
 * [Rayna Dimitrova](https://www2.le.ac.uk/departments/informatics/people/rayna-dimitrova), University of Leicester, UK
 * [Sophia Drossopoulou](https://wp.doc.ic.ac.uk/sd/), Imperial College London, UK
