@@ -107,6 +107,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Eva Graversen](https://portal.findresearcher.sdu.dk/en/persons/efgraversen), University of Southern Denmark, Denmark
 * [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
 * [Maria Kechagia](https://mkechagia.github.io/), University College London, UK
+* [Mae Milano](https://people.eecs.berkeley.edu/~mpmilano), University of California Berkeley, USA
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
 * [Zoe Paraskevopoulou](https://zoep.github.io/), Northeastern University, USA
 * [Larisa Safina](https://lsafina.github.io/), INRIA, France
