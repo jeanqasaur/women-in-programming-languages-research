@@ -23,6 +23,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India
 * [Marsha Chechik](http://www.cs.toronto.edu/~chechik), University of Toronto, Canada
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
+* [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Tokyo Institute of Technology, Japan
 * [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/), University of Glasgow, UK
 * [Eva Darulova](https://malyzajko.github.io/), Uppsala University, Sweden
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
