@@ -44,7 +44,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Rashina Hoda](https://unidirectory.auckland.ac.nz/profile/r-hoda), University of Auckland, New Zealand
 * [Limin Jia](http://www.andrew.cmu.edu/user/liminjia/), Carnegie Mellon University, USA
 * [Alexandra Jimborean](http://www.it.uu.se/katalog/aleji304), Uppsala University, Sweden
-* [Patricia Johann](https://cs.appstate.edu/~johannp/), Appalachian State University, USA
+* [Patricia Johann](https://cs.appstate.edu/johannp/), Appalachian State University, USA
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Gabriele Keller](https://www.cse.unsw.edu.au/~keller/), University of New South Wales, UK
