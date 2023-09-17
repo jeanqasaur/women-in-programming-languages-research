@@ -135,6 +135,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
+* [Neea Rusch](https://nkrusch.github.io), Augusta University, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
 * [Jenna Wise](https://www.cs.cmu.edu/~jlwise/), Carnegie Mellon University, USA
