@@ -48,6 +48,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Gabriele Keller](https://www.cse.unsw.edu.au/~keller/), University of New South Wales, UK
+* [Marie Kerjean](https://www.lipn.univ-paris13.fr/~kerjean/), CNRS, Université Sorbonne Paris Nord, France
 * [Ekaterina Komendantskaya](http://www.macs.hw.ac.uk/~ek19/), Heriot-Watt University, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Chandra Krintz](http://www.cs.ucsb.edu/~ckrintz/), University of California, Santa Barbara, USA
@@ -128,7 +129,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Anastasiia Izycheva](https://www.in.tum.de/i02/personen/anastasiia-izycheva/), TU Munich, Germany
-* [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
 * [Caroline Lemieux](http://www.carolemieux.com/), University of California, Berkeley, USA
 * [Debasmita Lohar](https://people.mpi-sws.org/~dlohar/), MPI-SWS, Germany
