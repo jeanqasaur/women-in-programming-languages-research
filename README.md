@@ -10,6 +10,7 @@ And for people who are wondering why gender-balanced representation is a big dea
 Please add yourself, or someone who is comfortable being on this list, in alphabetical order. There are no guarantees about the comprehensiveness of this list.
 
 ## Faculty and Research Scientists (at Universities or Research Institutions)
+* [Sara Achour](https://people.csail.mit.edu/sachour/), Stanford, USA
 * [Amal Ahmed](http://www.ccs.neu.edu/home/amal/), Northeastern University, USA
 * [Nada Amin](https://namin.seas.harvard.edu), Harvard University, USA
 * [Zena M. Ariola](http://ix.cs.uoregon.edu/~ariola/), University of Oregon, USA
@@ -22,11 +23,13 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Kuljit Kaur Chahal](https://twitter.com/kuljitchahal2), Guru Nanak Dev University, Amritsar, India
 * [Marsha Chechik](http://www.cs.toronto.edu/~chechik), University of Toronto, Canada
 * [Maria Christakis](https://mariachris.github.io/), MPI-SWS, Germany
+* [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Tokyo Institute of Technology, Japan
 * [Ornela Dardha](http://www.dcs.gla.ac.uk/~ornela/), University of Glasgow, UK
-* [Eva Darulova](https://people.mpi-sws.org/~eva/), MPI-SWS, Germany
+* [Eva Darulova](https://malyzajko.github.io/), Uppsala University, Sweden
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
 * [Rayna Dimitrova](https://www2.le.ac.uk/departments/informatics/people/rayna-dimitrova), University of Leicester, UK
 * [Sophia Drossopoulou](https://wp.doc.ic.ac.uk/sd/), Imperial College London, UK
+* [Jana Dunfield](https://dunfieldlab.ca/), Queen's University, Canada
 * [Sue Eisenbach](http://www.imperial.ac.uk/people/s.eisenbach), Imperial College London, UK
 * [Azadeh Farzan](https://www.cs.toronto.edu/~azadeh/), University of Toronto, Canada
 * [Kathleen Fisher](https://www.cs.tufts.edu/~kfisher/Kathleen_Fisher/Home.html), Tufts University, USA
@@ -41,10 +44,11 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Rashina Hoda](https://unidirectory.auckland.ac.nz/profile/r-hoda), University of Auckland, New Zealand
 * [Limin Jia](http://www.andrew.cmu.edu/user/liminjia/), Carnegie Mellon University, USA
 * [Alexandra Jimborean](http://www.it.uu.se/katalog/aleji304), Uppsala University, Sweden
-* [Patricia Johann](https://cs.appstate.edu/~johannp/), Appalachian State University, USA
+* [Patricia Johann](https://cs.appstate.edu/johannp/), Appalachian State University, USA
 * [Maria Jump](http://staff.kings.edu/mariajump/), Kings College, UK
 * [Sara Kalvala](https://warwick.ac.uk/fac/sci/dcs/people/sara_kalvala/), University of Warwick, UK
 * [Gabriele Keller](https://www.cse.unsw.edu.au/~keller/), University of New South Wales, UK
+* [Marie Kerjean](https://www.lipn.univ-paris13.fr/~kerjean/), CNRS, Université Sorbonne Paris Nord, France
 * [Ekaterina Komendantskaya](http://www.macs.hw.ac.uk/~ek19/), Heriot-Watt University, UK
 * [Laura Kovács](http://www.cse.chalmers.se/~laurako/), TU Wien/Chalmers, Austria/Sweden
 * [Chandra Krintz](http://www.cs.ucsb.edu/~ckrintz/), University of California, Santa Barbara, USA
@@ -68,11 +72,12 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Ina Schaefer](https://www.tu-braunschweig.de/isf/team/schaefer), Technische Universität Braunschweig, Germany
 * [Sibylle Schupp](https://www.tuhh.de/sts/institute/prof-dr-sibylle-schupp.html), Technische Universität Hamburg-Harburg, Germany
 * [Sharon Shoham Buchbinder](http://www.tau.ac.il/~sharonshoham/), Tel Aviv University, Israel
-* [Alexandra Silva](http://www.alexandrasilva.org/#/main.html), University College London, UK
+* [Alexandra Silva](http://www.alexandrasilva.org/#/main.html), Cornell University, USA
 * [Ana Sokolova](http://cs.uni-salzburg.at/~anas/), TU Eindhoven, Netherlands
 * [Perdita Stevens](http://homepages.inf.ed.ac.uk/perdita/), University of Edinburgh, Scotland
 * [Michelle Mills Strout](http://cgi.cs.arizona.edu/~mstrout/), University of Arizona, USA
 * [Shin Hwei Tan](http://www.shinhwei.com/), Southern University of Science and Technology, China
+* [Laura Titolo](https://lauratitolo.github.io/), NIA/NASA Langley, USA
 * [Emma Tosch](https://uvm.edu/~etosch), University of Vermont, USA
 * [Caterina Urban](https://caterinaurban.github.io), INRIA & École Normale Supérieure, France
 * [Niki Vazou](https://nikivazou.github.io/), IMDEA Software Institute Madrid, Spain
@@ -83,7 +88,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 ## Industry
 
  * [Cristina Cifuentes](https://labs.oracle.com/pls/apex/f?p=labs:bio:0:21), Oracle Labs, Australia
- * [Valeria de Paiva](https://research.nuance.com/author/valeria-de-paiva/), Nuance Communications, USA
+ * [Valeria de Paiva](http://vcvpaiva.github.io/), Topos Institute, USA
  * [Jennifer Paykin](http://www.cis.upenn.edu/~jpaykin/), Galois, USA
  * [Ciera Jaspan](https://research.google.com/pubs/CieraJaspan.html), Google, USA
  * [Rezwana Karim](http://paul.rutgers.edu/~rkarim/), Samsung Research America
@@ -93,8 +98,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
  * [Darya Melicher](https://www.cs.cmu.edu/~dkurilov/), Google, USA
  * [Tatiana Shpeisman](https://www.linkedin.com/in/tatiana-shpeisman-52b1011b/), Google, USA
  * [Ezgi Cicek](https://wp.mpi-sws.org/ecicek/), Facebook, UK
- * [Laura Titolo](https://lauratitolo.github.io/), NIA/NASA Langley, USA
- * [Marianna Rapoport](http://mrapoport.com/), Concordium, Denmark
+ * [Marianna Rapoport](http://mrapoport.com/), Amazon, Canada
  * [Jean Yang](http://jeanyang.com), Akita Software, USA
 
 ## Open Source
@@ -107,6 +111,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Eva Graversen](https://portal.findresearcher.sdu.dk/en/persons/efgraversen), University of Southern Denmark, Denmark
 * [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
 * [Maria Kechagia](https://mkechagia.github.io/), University College London, UK
+* [Mae Milano](https://people.eecs.berkeley.edu/~mpmilano), University of California Berkeley, USA
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
 * [Zoe Paraskevopoulou](https://zoep.github.io/), Northeastern University, USA
 * [Larisa Safina](https://lsafina.github.io/), INRIA, France
@@ -115,7 +120,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Hira Taqdees Syeda](https://ts.data61.csiro.au/people/?cn=Hira+Taqdees+Syeda), Data61 CSIRO and UNSW Sydney, Australia
 
 ## PhD Students
-* [Sara Achour](https://people.csail.mit.edu/sachour/), MIT, USA
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
 * [Julia Belyakova](https://julbinb.github.io/), Northeastern University, USA
 * [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
@@ -125,13 +129,13 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Anastasiia Izycheva](https://www.in.tum.de/i02/personen/anastasiia-izycheva/), TU Munich, Germany
-* [Marie Kerjean](https://www.irif.fr/~kerjean/), IRIF, France
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
 * [Caroline Lemieux](http://www.carolemieux.com/), University of California, Berkeley, USA
 * [Debasmita Lohar](https://people.mpi-sws.org/~dlohar/), MPI-SWS, Germany
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
+* [Neea Rusch](https://nkrusch.github.io), Augusta University, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
 * [Jenna Wise](https://www.cs.cmu.edu/~jlwise/), Carnegie Mellon University, USA
