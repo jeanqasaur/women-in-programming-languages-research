@@ -28,6 +28,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Eva Darulova](https://malyzajko.github.io/), Uppsala University, Sweden
 * [Işil Dillig](http://www.cs.utexas.edu/~isil/), University of Texas Austin, USA
 * [Rayna Dimitrova](https://www2.le.ac.uk/departments/informatics/people/rayna-dimitrova), University of Leicester, UK
+* [Jenna Wise DiVincenzo](https://www.cs.cmu.edu/~jlwise/), Purdue University, USA
 * [Sophia Drossopoulou](https://wp.doc.ic.ac.uk/sd/), Imperial College London, UK
 * [Jana Dunfield](https://dunfieldlab.ca/), Queen's University, Canada
 * [Sue Eisenbach](http://www.imperial.ac.uk/people/s.eisenbach), Imperial College London, UK
@@ -138,7 +139,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Neea Rusch](https://nkrusch.github.io), Augusta University, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
-* [Jenna Wise](https://www.cs.cmu.edu/~jlwise/), Carnegie Mellon University, USA
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
 * [Uma Zalakain](https://umazalakain.info/), University of Glasgow, UK
 
