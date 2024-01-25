@@ -134,11 +134,13 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Caroline Lemieux](http://www.carolemieux.com/), University of California, Berkeley, USA
 * [Debasmita Lohar](https://people.mpi-sws.org/~dlohar/), MPI-SWS, Germany
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
+* [Rachel Muir](https://www.linkedin.com/in/rachel-muir00/?originalSubdomain=uk), University of Kent, UK
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
 * [Neea Rusch](https://nkrusch.github.io), Augusta University, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
+* [Tori Vollmer](https://research.kent.ac.uk/programming-languages-systems/person/tori-vollmer/), University of Kent, UK
 * [Katherine Ye](https://cs.cmu.edu/~kqy/), Carnegie Mellon University, USA
 * [Uma Zalakain](https://umazalakain.info/), University of Glasgow, UK
 
