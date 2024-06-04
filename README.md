@@ -56,6 +56,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Lindsey Kuper](http://composition.al),  University of California, Santa Cruz, USA
 * [Marta Kwiatkowska](http://www.cs.ox.ac.uk/marta.kwiatkowska/), Oxford University, UK
 * [Claire Le Goues](http://www.clairelegoues.com), Carnegie Mellon University, USA
+* [Caroline Lemieux](http://www.carolemieux.com/), University of British Columbia, Vancouver, Canada
 * [Crista Lopes](http://www.ics.uci.edu/~lopes/), University of California, Irvine, USA
 * [Mae Milano](https://cs.princeton.edu/~mpmilano), Princeton University, USA
 * [Ana Milanova](http://www.cs.rpi.edu/~milanova/), Rensselaer Polytechnic Institute, USA
@@ -131,7 +132,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Anastasiia Izycheva](https://www.in.tum.de/i02/personen/anastasiia-izycheva/), TU Munich, Germany
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
-* [Caroline Lemieux](http://www.carolemieux.com/), University of California, Berkeley, USA
 * [Debasmita Lohar](https://people.mpi-sws.org/~dlohar/), MPI-SWS, Germany
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Rachel Muir](https://www.linkedin.com/in/rachel-muir00/?originalSubdomain=uk), University of Kent, UK
