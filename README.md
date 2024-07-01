@@ -132,7 +132,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Anastasiia Izycheva](https://www.in.tum.de/i02/personen/anastasiia-izycheva/), TU Munich, Germany
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
-* [Debasmita Lohar](https://people.mpi-sws.org/~dlohar/), MPI-SWS, Germany
+* [Debasmita Lohar](https://dlohar.github.io/), Karlsruhe Institute of Technology, Germany
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Rachel Muir](https://www.linkedin.com/in/rachel-muir00/?originalSubdomain=uk), University of Kent, UK
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
