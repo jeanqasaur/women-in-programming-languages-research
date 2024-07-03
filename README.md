@@ -113,6 +113,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Eleni Constantinou](http://www.econst.eu), University of Mons, Belgium
 * [Eva Graversen](https://portal.findresearcher.sdu.dk/en/persons/efgraversen), University of Southern Denmark, Denmark
 * [Jennifer Hackett](http://www.cs.nott.ac.uk/~pszjlh/), University of Nottingham, UK
+* [Anastasia Isychev](https://aisychev.github.io/), TU Wien, Austria
 * [Maria Kechagia](https://mkechagia.github.io/), University College London, UK
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
 * [Zoe Paraskevopoulou](https://zoep.github.io/), Northeastern University, USA
@@ -130,7 +131,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [April Gonçalves](http://cyberglot.me/), University of Strathclyde, UK
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
-* [Anastasiia Izycheva](https://www.in.tum.de/i02/personen/anastasiia-izycheva/), TU Munich, Germany
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
 * [Debasmita Lohar](https://dlohar.github.io/), Karlsruhe Institute of Technology, Germany
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
