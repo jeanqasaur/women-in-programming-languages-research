@@ -121,6 +121,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
 * [Hira Taqdees Syeda](https://ts.data61.csiro.au/people/?cn=Hira+Taqdees+Syeda), Data61 CSIRO and UNSW Sydney, Australia
+* [Debasmita Lohar](https://dlohar.github.io/), Karlsruhe Institute of Technology, Germany
 
 ## PhD Students
 * [Leif Andersen](https://leifandersen.net), Northeastern University, USA
@@ -132,7 +133,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
-* [Debasmita Lohar](https://dlohar.github.io/), Karlsruhe Institute of Technology, Germany
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Rachel Muir](https://www.linkedin.com/in/rachel-muir00/?originalSubdomain=uk), University of Kent, UK
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
