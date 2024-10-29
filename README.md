@@ -128,10 +128,12 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Julia Belyakova](https://julbinb.github.io/), Northeastern University, USA
 * [Annie Cherkaev](https://anniecherkaev.com/), University of Utah, USA
 * [Maryam Dabaghchian](https://sites.google.com/site/maryamdabaghchian/), University of Utah, USA
+* [Amelia Dobis](https://www.cs.princeton.edu/~ad4048/), Princeton University, USA
 * [Juliana Franco](https://www.doc.ic.ac.uk/~jvicent1/), Imperial College London, UK
 * [April Gonçalves](http://cyberglot.me/), University of Strathclyde, UK
 * [Anna Gommerstadt](http://anyag.net/), Carnegie Mellon University, USA
 * [Sylvia Grewe](http://www.stg.tu-darmstadt.de/staff/sylvia_grewe/sylvia_grewe.en.jsp), Technische Universität Darmstadt, Germany
+* [Bea Healy](https://www.cst.cam.ac.uk/people/tah56), University of Cambridge, UK
 * [Wen Kokke](https://wenkokke.github.io/), University of Edinburgh, Scotland
 * [Cristina Matache](http://users.ox.ac.uk/~scro3229/), University of Oxford, UK
 * [Rachel Muir](https://www.linkedin.com/in/rachel-muir00/?originalSubdomain=uk), University of Kent, UK
