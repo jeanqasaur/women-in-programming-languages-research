@@ -118,6 +118,7 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Maria Kechagia](https://mkechagia.github.io/), University College London, UK
 * [Rumyana Neykova](http://mrg.doc.ic.ac.uk/people/rumyana-neykova/), Imperial College London, UK
 * [Zoe Paraskevopoulou](https://zoep.github.io/), Northeastern University, USA
+* [Neea Rusch](https://neea.pl), Uppsala University, Sweden
 * [Larisa Safina](https://lsafina.github.io/), INRIA, France
 * [Malavika Samak](https://sites.google.com/site/malavikasamak/home), MIT, USA
 * [Kristina Sojakova](http://www.cs.cmu.edu/~ksojakov/), Cornell University, USA
@@ -139,7 +140,6 @@ Please add yourself, or someone who is comfortable being on this list, in alphab
 * [Rachel Muir](https://www.linkedin.com/in/rachel-muir00/?originalSubdomain=uk), University of Kent, UK
 * [Jeevana Priya Inala](https://jinala.github.io/), MIT, USA
 * [Juliana Alves Pereira](http://wwwiti.cs.uni-magdeburg.de/~jualves/), University of Magdeburg, Germany
-* [Neea Rusch](https://nkrusch.github.io), Augusta University, USA
 * [Rian Shambaugh](http://cs.umass.edu/~rian), University of Massachusetts Amherst, USA
 * [Jiasi Shen](http://people.csail.mit.edu/jiasi/), MIT, USA
 * [Tori Vollmer](https://research.kent.ac.uk/programming-languages-systems/person/tori-vollmer/), University of Kent, UK
